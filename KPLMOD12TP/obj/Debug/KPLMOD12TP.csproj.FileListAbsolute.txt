@@ -1,0 +1,10 @@
+C:\Users\alienware\source\repos\KPLMOD12TP\KPLMOD12TP\bin\Debug\KPLMOD12TP.exe.config
+C:\Users\alienware\source\repos\KPLMOD12TP\KPLMOD12TP\bin\Debug\KPLMOD12TP.exe
+C:\Users\alienware\source\repos\KPLMOD12TP\KPLMOD12TP\bin\Debug\KPLMOD12TP.pdb
+C:\Users\alienware\source\repos\KPLMOD12TP\KPLMOD12TP\obj\Debug\KPLMOD12TP.csproj.AssemblyReference.cache
+C:\Users\alienware\source\repos\KPLMOD12TP\KPLMOD12TP\obj\Debug\KPLMOD12TP.Form1.resources
+C:\Users\alienware\source\repos\KPLMOD12TP\KPLMOD12TP\obj\Debug\KPLMOD12TP.Properties.Resources.resources
+C:\Users\alienware\source\repos\KPLMOD12TP\KPLMOD12TP\obj\Debug\KPLMOD12TP.csproj.GenerateResource.cache
+C:\Users\alienware\source\repos\KPLMOD12TP\KPLMOD12TP\obj\Debug\KPLMOD12TP.csproj.CoreCompileInputs.cache
+C:\Users\alienware\source\repos\KPLMOD12TP\KPLMOD12TP\obj\Debug\KPLMOD12TP.exe
+C:\Users\alienware\source\repos\KPLMOD12TP\KPLMOD12TP\obj\Debug\KPLMOD12TP.pdb
