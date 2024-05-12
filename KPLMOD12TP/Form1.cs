@@ -22,7 +22,6 @@ namespace KPLMOD12TP
             int parameterValue;
             if (!int.TryParse(textBox1.Text, out parameterValue))
             {
-                MessageBox.Show("inputannya angka ya masbro, jangan teks :v");
                 return;
             }
 
